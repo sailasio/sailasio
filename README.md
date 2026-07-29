@@ -2,14 +2,13 @@
 <a href="https://www.linkedin.com/in/saifullah30/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I'm currently working as a SOC Analyst at KH Datagate, where I monitor and manage security alerts using XDR, SIEM, and SOAR tools to ensure comprehensive threat detection and response. I actively analyze vulnerabilities, manage threat cases, and contribute to incident response efforts to strengthen cybersecurity defenses. Excited to expand my expertise in cybersecurity, threat intelligence, and security operations. Always eager to learn, grow, and connect with like-minded professionals in the field.
+I'm currently working as a SOC Analyst at Alteraxis Sdn Bhd, where I monitor and manage security alerts using XDR, SIEM, and SOAR tools to ensure comprehensive threat detection and response. I actively analyze vulnerabilities, manage threat cases, and contribute to incident response efforts to strengthen cybersecurity defenses. Excited to expand my expertise in cybersecurity, threat intelligence, and security operations. Always eager to learn, grow, and connect with like-minded professionals in the field.
 
 ## Objective
 
 My journey as a SOC Analyst has led me to build my skills in cybersecurity. I am committed to continuous growth, hands-on experience, and contributing effectively to my team as I deepen my understanding of threat detection, analysis, and incident response.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -21,7 +20,6 @@ My journey as a SOC Analyst has led me to build my skills in cybersecurity. I am
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -44,7 +42,6 @@ My journey as a SOC Analyst has led me to build my skills in cybersecurity. I am
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
